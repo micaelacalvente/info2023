@@ -25,7 +25,7 @@ print(f"La variable bool, contiene el valor: {bool} y es del tipo {type(bool)}")
 # # # OPERADORES MATEMATICOS
 
 #int en el input se asegura de que se ingrese un num int
-n1 = int(input("Introduce el primer número: "))
+n1 = float(input("Introduce el primer número: "))
 n2 = int(input("Introduce el segundo número: "))
 
 suma = n1 + n2
