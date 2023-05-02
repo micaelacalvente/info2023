@@ -14,7 +14,7 @@ print(lista[:3])
 print(lista[2:])
 
 #acceder al ultimo elemento
-print(lista[-2])
+print(lista[-1])
 
 #modificar un elemento
 lista[2] = "New"
