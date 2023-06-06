@@ -1,7 +1,7 @@
 def es_divisible(n1, n2):
     if (n1 % n2) == 0:
         return True
-    else:
+    else: 
         return False
 
 n1 = int(input("Ingrese dos numeros enteros: \n"))
